@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/ilyaivanov/Groovy-ToDo",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-karma": "0.0.4",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
   }
 }
