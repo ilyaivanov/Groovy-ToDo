@@ -1,0 +1,26 @@
+{
+  "name": "Groovy-ToDo",
+  "version": "0.0.1",
+  "description": "Lightweight ToDos with Pomodoro",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilyaivanov/Groovy-ToDo.git"
+  },
+  "keywords": [
+    "todo",
+    "pomodoro"
+  ],
+  "author": "Ilya Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilyaivanov/Groovy-ToDo/issues"
+  },
+  "homepage": "https://github.com/ilyaivanov/Groovy-ToDo",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
